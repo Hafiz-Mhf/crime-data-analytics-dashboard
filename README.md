@@ -49,7 +49,7 @@ This project provides a comprehensive analysis of crime trends across Malaysia u
 ├── reports/            # Full Crime Index Analysis Report (PDF)
 ├── .gitignore          # Prevents system and temporary files from cluttering the repo
 ├── README.md           # Project documentation and policy insights
-└── Crime_Dashboard.twbx # Tableau Packaged Workbook for interactive viewing
+└── Crime_Analytics_Dashboard.twbx # Tableau Packaged Workbook for interactive viewing
 
 ```
 
