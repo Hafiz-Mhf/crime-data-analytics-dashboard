@@ -1,0 +1,18 @@
+# Tableau temporary and recovery files
+*.twbr
+*.twb~
+*.tmp
+Data/TableauTemp
+
+# Microsoft Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# System metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
